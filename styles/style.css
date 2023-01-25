@@ -1,0 +1,58 @@
+
+.heading{
+  text-align: right; 
+  background-image: url(../styles/banner1.png);
+  width: 1200px;
+  height: 600px;
+}
+.btn{
+  text-align: right;
+  color: burlywood;
+}
+
+
+.section-title{
+  text-align: center;
+}
+.section-container{
+  display: flex;
+  justify-content: space-between;
+}
+.section-gradient{
+  background-image: url(../styles/gradient1.png);
+  width: 800px;
+  height: 200px;
+
+  background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%);
+  border-radius: 8px;
+
+}
+.gradient-title{
+  width: 459px;
+  height: 94px;
+  font-weight: 700;
+  font-size: 40px;
+} 
+.gradiant-btn{
+  background: #FFFFFF;
+  border-radius: 5px;
+}
+
+.main-container{
+  background: #151414;
+  color: #F8F8F8;
+}
+.sub-container{
+ 
+} 
+
+/* .main-title{
+  display: flex;
+  color: #F8F8F8; */
+
+.main-sub-title{
+  display: flex;
+ justify-content: right;
+  color: #F8F8F8;
+}  
+
